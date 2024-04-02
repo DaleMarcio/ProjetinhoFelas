@@ -12,7 +12,7 @@
     --botao-ativo: rgba(17, 209, 243, 0.795);
 }
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--branco);
     color: var(--cor-de-fundo);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
@@ -37,7 +37,7 @@ body{
 .botao{
     font-family: 'Chakra Petch', Sans-Serif;
     background-color: var(--verde);
-    color: var(--branco);
+    color: var(--cor-de-fundo);
     display: flex;
     justify-content: center;
     padding: 1em;
