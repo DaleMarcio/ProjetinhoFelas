@@ -57,7 +57,7 @@ body{
 }
 .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--branco);
 }
 .abas-textos{
     background-color: var(--cor-de-fundo);
@@ -76,7 +76,7 @@ body{
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--verde-limao: #6FFF57;);
+    color: var(--branco);
     text-transform: uppercase;
 }
 
