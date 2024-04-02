@@ -12,7 +12,7 @@
     --botao-ativo: rgba(17, 209, 243, 0.795);
 }
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--branco);
     color: var(--branco);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
